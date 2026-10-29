@@ -49,9 +49,6 @@ Cách này chỉ thực hiện được khi phiên bản cần khôi phục đã
 
 ### Bước 4. Quản lý code bằng GitHub
 
-
-### Bước 4. Quản lý code bằng GitHub
-
 Nam sử dụng Git để lưu lại các phiên bản code quan trọng.
 
 ```
