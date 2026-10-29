@@ -63,5 +63,4 @@ git commit -m "Luu code"
 
 Sau đó, Nam sử dụng GitHub để lưu trữ code trực tuyến và hỗ trợ cộng tác nhóm.
 
-Nhờ đó, Nam có thể xem lại lịch sử commit và khôi phục code từ một phiên bản đã lưu khi cần.
 
