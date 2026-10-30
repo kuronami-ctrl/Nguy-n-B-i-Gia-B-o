@@ -16,8 +16,6 @@ Các rủi ro Nam đang gặp phải:
 4.  **Thiếu lịch sử chỉnh sửa:** Việc lưu nhiều file thủ công không giúp Nam dễ dàng xác định và khôi phục trạng thái code trước khi xảy ra lỗi.
     
 
-**Kết luận:** Lưu nhiều file trên cùng một máy tính không đảm bảo an toàn dữ liệu. Nam cần kết hợp lưu trữ đám mây và quản lý phiên bản.
-
 ## Phần 2. Thiết lập Hybrid Workflow
 
 Nam nên kết hợp Local Storage, Cloud Storage và GitHub theo quy trình sau:
@@ -45,7 +43,6 @@ Khi vô tình xóa code và nhấn `Ctrl + S`, Nam thực hiện:
 5.  Chọn **Restore** để khôi phục phiên bản cũ.
     
 
-Cách này chỉ thực hiện được khi phiên bản cần khôi phục đã được lưu và vẫn còn trong lịch sử.
 
 ### Bước 4. Quản lý code bằng GitHub
 
