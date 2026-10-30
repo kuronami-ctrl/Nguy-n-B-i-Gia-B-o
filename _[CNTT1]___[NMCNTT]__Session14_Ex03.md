@@ -17,8 +17,6 @@ Khi lập trình viên nhấn `Ctrl + S` trong VS Code, dữ liệu đi qua các
 5.  **Output:** Biểu tượng tích xanh xuất hiện khi file đã đồng bộ thành công theo trạng thái của dịch vụ.
     
 
-**Lưu ý:** Tích xanh có ý nghĩa cụ thể tùy phần mềm đồng bộ. Cần kiểm tra trạng thái đồng bộ để chắc chắn file đã được tải lên Cloud.
-
 ### 1.2. Vấn đề với thư mục node_modules
 
 Thư mục `node_modules` chứa nhiều file thư viện được cài đặt bằng npm. Nếu đồng bộ toàn bộ thư mục này, quá trình đồng bộ có thể chậm, tiêu tốn dung lượng Cloud và gây quá tải.
