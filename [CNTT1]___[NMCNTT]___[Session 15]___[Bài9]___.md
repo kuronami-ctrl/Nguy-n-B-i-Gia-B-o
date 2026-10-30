@@ -136,4 +136,3 @@ Giải pháp:
 - Nếu sử dụng tài khoản do tổ chức quản lý, quản trị viên có thể khóa tài khoản khi cần.
 
 
-Google Drive giúp CampusPay sắp xếp tài liệu khoa học, phân quyền theo nhiệm vụ và bảo vệ dữ liệu quan trọng. Việc kiểm tra lịch sử phiên bản, giới hạn quyền truy cập và thu hồi quyền đúng hạn giúp giảm nguy cơ rò rỉ thông tin.
