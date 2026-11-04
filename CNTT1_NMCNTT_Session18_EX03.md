@@ -1,4 +1,4 @@
-﻿
+
 # SESSION 18 - EXERCISE 03: QUY TRÌNH ỨNG PHÓ SỰ CỐ INFOSTEALER
 
 ## 1. VẤN ĐỀ
@@ -30,16 +30,17 @@ Thiết lập quy trình cấp cứu gồm 4 bước:
 
 ### Bước 2. Đổi mật khẩu từ thiết bị khác
 
-- Sử dụng điện thoại hoặc máy tính sạch.
+- Sử dụng điện thoại hoặc máy tính khác.
 - Đổi mật khẩu Gmail.
 - Truy cập Facebook để đổi mật khẩu.
 - Đặt mật khẩu mới mạnh và riêng biệt cho từng tài khoản.
 - Bật xác thực hai yếu tố (2FA).
-### Bước 3. Thu hồi Token trên GitHub
+### Bước 3. Thu hồi Token trên GitHub và thu hồi quyền
 
-1. Đăng nhập GitHub 
+1. Đăng nhập GitHub vào máy tính khác
 2. Chọn Token đáng ngờ và nhấn Delete.
-3. Kiểm tra, đăng xuất các phiên đăng nhập không nhận diện.
+3. Thu hồi tất cả quyền về chỉ mình tôi.
+4. Kiểm tra, đăng xuất các phiên đăng nhập không nhận diện.
 ### Bước 4. Kiểm tra và làm sạch máy tính
 
 - Quét mã độc bằng phần mềm bảo mật đáng tin cậy.
