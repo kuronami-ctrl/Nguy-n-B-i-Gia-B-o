@@ -156,15 +156,3 @@ Trong file `config.js` ban đầu có 2 giá trị Secrets:
 Đây là thông tin nhạy cảm. Nếu push lên GitHub công khai, người khác có thể nhìn thấy và lợi dụng chúng.
 
 ### Câu 2. Viết lại code sử dụng process.env
-
-File `config.js` sau khi sửa:
-
-```javascript
-require('dotenv').config();
-
-const API_KEY = process.env.API_KEY;
-const DB_PASSWORD = process.env.DB_PASSWORD;
-
-function connectDatabase() {
-  return connect(DB_PASSWORD);
-}
